@@ -1,9 +1,11 @@
 # Data Cleaning Project 
 
-We clean up a Nashville Housing dataset that contains information of the real estate as well as the buyer and seller of the houses to be used in further analysis. 
-## In this project I use SQL to clean up data from an imported CSV file. 
-### Populated Property Address which was then broken down into Address, City, and State. 
-### Changed out values to make it streamlined throughout the dataset 
-### Deleted duplicate rows using CTEs 
-### Deleted unused columns 
+##### This project analyzes education attainment and home ownership trends across different racial groups in the United States. It uses data from various years, focusing on White, Black, and Hispanic populations.
  
+**Skills used:** Python, Pandas, Data Cleaning, Data Analysis, Excel File Handling 
+
+**Key findings** : 
+- Reading and processing data from multiple CSV and Excel files
+- Cleaning and transforming data, including handling inconsistent race labels
+- Extracting relevant information from complex Excel structures
+- Merging and reorganizing data from different years and sources
